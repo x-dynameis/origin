@@ -1,0 +1,75 @@
+ 1021  cd repos/github.com/
+ 1113  ls bundles/repos/github.com/
+ 1114  ls bundles/repos/github.com/phpactor/
+ 1116  cd bundles/repos/github.com/phpactor/phpactor/
+ 1149  cd github.com/
+ 1226  cd github.com/
+ 1251  cd github.com/
+ 1282  cd github.com
+ 1315  cd github.com/
+ 1422  ls .vim/bundles/repos/github.com/
+ 1423  ls .vim/bundles/repos/github.com/phpactor/phpactor/
+ 1424  ls .vim/bundles/repos/github.com/phpactor/phpactor/config/
+ 1425  cat .vim/bundles/repos/github.com/phpactor/phpactor/README.md 
+ 1426  cat .vim/bundles/repos/github.com/phpactor/phpactor/README.md |tran|less
+ 1437  ls .vim/bundles/repos/github.com/
+ 1438  ls .vim/bundles/repos/github.com/junegunn/
+ 1439  ls .vim/bundles/repos/github.com/junegunn/fzf/
+ 1444  ls .vim/bundles/repos/github.com/junegunn/fzf/
+ 1445  ls .vim/bundles/repos/github.com/
+ 1446  ls .vim/bundles/repos/github.com/junegunn/
+ 1447  rm .vim/bundles/repos/github.com/junegunn
+ 1448  rm -r .vim/bundles/repos/github.com/junegunn
+ 1455  ls .vim/bundles/repos/github.com/
+ 1456  ls .vim/bundles/repos/github.com/phpactor/
+ 1481  cd bundles/repos/github.com/
+ 1512  ls .vim/bundles/repos/github.com/
+ 1513  cd .vim/bundles/repos/github.com/Shougo/
+ 1632  cd .vim/bundles/repos/github.com/
+ 1883  ls .vim/bundles/repos/github.com/
+ 1884  . count_dir.sh .vim/bundles/repos/github.com/
+ 1888  . count_dir.sh .vim/bundles/repos/github.com/
+ 1944  git -v
+ 1946  ls -a |grep git
+ 1947  git config --list
+ 1950  apt show git
+ 1952  git config --list
+ 1953  git config --global user.name x-dynameis
+ 1954  git config --list
+ 1955  git config --global user.email x_wing1975@msn.com
+ 1956  git config --global color.ui auto
+ 1957  git config --global color.diff auto
+ 1958  git config --global color.status auto
+ 1959  git config --global color.branch auto
+ 1960  git config --global push.default simple
+ 1961  git config --global core.ignorecase false
+ 1962  git config --global core.precomposeunicode true
+ 1963  git config --liset
+ 1964  git config --list
+ 1965  git config --global core.quotepath false
+ 1966  git config --global core.editor 'vim -c "set fenc=utf=8"'
+ 1967  git config --list
+ 1968  ls -a|grep git
+ 1969  vi .gitconfig 
+ 1970  git config --list
+ 1972  git init
+ 1974  git status
+ 1975  git add all
+ 1976  git add *
+ 1977  git status
+ 1978  git remote add origin https://github.com/x-dynameis/sincereDB.git
+ 1979  git push origin master
+ 1980  git comit -m "First commit"
+ 1981  git commit -m "First comit"
+ 1982  git push origin master
+ 1987  git init
+ 1988  git add count_dir.sh 
+ 1989  git status
+ 1990  git commit -m "First commit"
+ 1991  git remote add origin https://github.com/x-dynameis/bin.git
+ 1992  git push orign mastar
+ 1993  histry |git push
+ 1994  histry |grep git push
+ 1995  history |grep git 
+ 1996  git push origin master
+ 1999  history |grep git >>git_history
